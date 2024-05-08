@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VBPEz6H5wuykht/EUoelvzoS7Rciap54yRoq+YJkf3TFn+bOoncj2GnTGru/I07x/AIrMFWnCB+lUutIx+zmjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\79182\\source\\repos\\Refac1\\Refac1\\Refac1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79182\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\79182\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

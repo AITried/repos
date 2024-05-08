@@ -1,0 +1,14 @@
+C:\Users\79182\source\repos\model1\model1\bin\Debug\net6.0\model1.exe
+C:\Users\79182\source\repos\model1\model1\bin\Debug\net6.0\model1.deps.json
+C:\Users\79182\source\repos\model1\model1\bin\Debug\net6.0\model1.runtimeconfig.json
+C:\Users\79182\source\repos\model1\model1\bin\Debug\net6.0\model1.dll
+C:\Users\79182\source\repos\model1\model1\bin\Debug\net6.0\model1.pdb
+C:\Users\79182\source\repos\model1\model1\obj\Debug\net6.0\model1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79182\source\repos\model1\model1\obj\Debug\net6.0\model1.AssemblyInfoInputs.cache
+C:\Users\79182\source\repos\model1\model1\obj\Debug\net6.0\model1.AssemblyInfo.cs
+C:\Users\79182\source\repos\model1\model1\obj\Debug\net6.0\model1.csproj.CoreCompileInputs.cache
+C:\Users\79182\source\repos\model1\model1\obj\Debug\net6.0\model1.dll
+C:\Users\79182\source\repos\model1\model1\obj\Debug\net6.0\refint\model1.dll
+C:\Users\79182\source\repos\model1\model1\obj\Debug\net6.0\model1.pdb
+C:\Users\79182\source\repos\model1\model1\obj\Debug\net6.0\model1.genruntimeconfig.cache
+C:\Users\79182\source\repos\model1\model1\obj\Debug\net6.0\ref\model1.dll

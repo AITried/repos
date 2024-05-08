@@ -1,0 +1,16 @@
+C:\Users\79182\source\repos\ВС 8\ВС 8\bin\Debug\net6.0-windows\ВС 8.exe
+C:\Users\79182\source\repos\ВС 8\ВС 8\bin\Debug\net6.0-windows\ВС 8.deps.json
+C:\Users\79182\source\repos\ВС 8\ВС 8\bin\Debug\net6.0-windows\ВС 8.runtimeconfig.json
+C:\Users\79182\source\repos\ВС 8\ВС 8\bin\Debug\net6.0-windows\ВС 8.dll
+C:\Users\79182\source\repos\ВС 8\ВС 8\bin\Debug\net6.0-windows\ВС 8.pdb
+C:\Users\79182\source\repos\ВС 8\ВС 8\obj\Debug\net6.0-windows\ВС_8.Form1.resources
+C:\Users\79182\source\repos\ВС 8\ВС 8\obj\Debug\net6.0-windows\ВС 8.csproj.GenerateResource.cache
+C:\Users\79182\source\repos\ВС 8\ВС 8\obj\Debug\net6.0-windows\ВС 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79182\source\repos\ВС 8\ВС 8\obj\Debug\net6.0-windows\ВС 8.AssemblyInfoInputs.cache
+C:\Users\79182\source\repos\ВС 8\ВС 8\obj\Debug\net6.0-windows\ВС 8.AssemblyInfo.cs
+C:\Users\79182\source\repos\ВС 8\ВС 8\obj\Debug\net6.0-windows\ВС 8.csproj.CoreCompileInputs.cache
+C:\Users\79182\source\repos\ВС 8\ВС 8\obj\Debug\net6.0-windows\ВС 8.dll
+C:\Users\79182\source\repos\ВС 8\ВС 8\obj\Debug\net6.0-windows\refint\ВС 8.dll
+C:\Users\79182\source\repos\ВС 8\ВС 8\obj\Debug\net6.0-windows\ВС 8.pdb
+C:\Users\79182\source\repos\ВС 8\ВС 8\obj\Debug\net6.0-windows\ВС 8.genruntimeconfig.cache
+C:\Users\79182\source\repos\ВС 8\ВС 8\obj\Debug\net6.0-windows\ref\ВС 8.dll

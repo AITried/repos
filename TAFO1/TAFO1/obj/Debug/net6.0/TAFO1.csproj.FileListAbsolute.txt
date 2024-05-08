@@ -1,0 +1,14 @@
+C:\Users\79182\source\repos\TAFO1\TAFO1\bin\Debug\net6.0\TAFO1.exe
+C:\Users\79182\source\repos\TAFO1\TAFO1\bin\Debug\net6.0\TAFO1.deps.json
+C:\Users\79182\source\repos\TAFO1\TAFO1\bin\Debug\net6.0\TAFO1.runtimeconfig.json
+C:\Users\79182\source\repos\TAFO1\TAFO1\bin\Debug\net6.0\TAFO1.dll
+C:\Users\79182\source\repos\TAFO1\TAFO1\bin\Debug\net6.0\TAFO1.pdb
+C:\Users\79182\source\repos\TAFO1\TAFO1\obj\Debug\net6.0\TAFO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79182\source\repos\TAFO1\TAFO1\obj\Debug\net6.0\TAFO1.AssemblyInfoInputs.cache
+C:\Users\79182\source\repos\TAFO1\TAFO1\obj\Debug\net6.0\TAFO1.AssemblyInfo.cs
+C:\Users\79182\source\repos\TAFO1\TAFO1\obj\Debug\net6.0\TAFO1.csproj.CoreCompileInputs.cache
+C:\Users\79182\source\repos\TAFO1\TAFO1\obj\Debug\net6.0\TAFO1.dll
+C:\Users\79182\source\repos\TAFO1\TAFO1\obj\Debug\net6.0\refint\TAFO1.dll
+C:\Users\79182\source\repos\TAFO1\TAFO1\obj\Debug\net6.0\TAFO1.pdb
+C:\Users\79182\source\repos\TAFO1\TAFO1\obj\Debug\net6.0\TAFO1.genruntimeconfig.cache
+C:\Users\79182\source\repos\TAFO1\TAFO1\obj\Debug\net6.0\ref\TAFO1.dll

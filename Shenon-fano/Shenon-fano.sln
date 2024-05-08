@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shenon-fano", "Shenon-fano\Shenon-fano.csproj", "{E36AAC9B-A420-4094-822A-0E9CE2DA4352}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E36AAC9B-A420-4094-822A-0E9CE2DA4352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36AAC9B-A420-4094-822A-0E9CE2DA4352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36AAC9B-A420-4094-822A-0E9CE2DA4352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36AAC9B-A420-4094-822A-0E9CE2DA4352}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04386119-7DFF-418D-9636-6D74E5AE14C3}
+	EndGlobalSection
+EndGlobal

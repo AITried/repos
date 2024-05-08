@@ -1,0 +1,14 @@
+C:\Users\79182\source\repos\zadach\zadach\bin\Debug\net6.0\zadach.exe
+C:\Users\79182\source\repos\zadach\zadach\bin\Debug\net6.0\zadach.deps.json
+C:\Users\79182\source\repos\zadach\zadach\bin\Debug\net6.0\zadach.runtimeconfig.json
+C:\Users\79182\source\repos\zadach\zadach\bin\Debug\net6.0\zadach.dll
+C:\Users\79182\source\repos\zadach\zadach\bin\Debug\net6.0\zadach.pdb
+C:\Users\79182\source\repos\zadach\zadach\obj\Debug\net6.0\zadach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79182\source\repos\zadach\zadach\obj\Debug\net6.0\zadach.AssemblyInfoInputs.cache
+C:\Users\79182\source\repos\zadach\zadach\obj\Debug\net6.0\zadach.AssemblyInfo.cs
+C:\Users\79182\source\repos\zadach\zadach\obj\Debug\net6.0\zadach.csproj.CoreCompileInputs.cache
+C:\Users\79182\source\repos\zadach\zadach\obj\Debug\net6.0\zadach.dll
+C:\Users\79182\source\repos\zadach\zadach\obj\Debug\net6.0\refint\zadach.dll
+C:\Users\79182\source\repos\zadach\zadach\obj\Debug\net6.0\zadach.pdb
+C:\Users\79182\source\repos\zadach\zadach\obj\Debug\net6.0\zadach.genruntimeconfig.cache
+C:\Users\79182\source\repos\zadach\zadach\obj\Debug\net6.0\ref\zadach.dll
